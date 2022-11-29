@@ -2,7 +2,7 @@
 
 **Database Name: cbsphp**
 
-**Developed by Juan Carlos Montero**
+**Developed by Team INCOGNITO**
 
 **Recommended PHP Version 7.4**
 
